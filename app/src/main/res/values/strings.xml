@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TTL Fixer</string>
-    <string name="ttl_success">TTL successfully fixed</string>
-    <string name="ttl_error">Error at TTL fixing</string>
-    <string name="ttl_incorrect_value">Error: TTL value is incorrect</string>
-    <string name="root_error">Error: device is not rooted</string>
+    <string name="ttl_error">Ошибка при фиксации TTL</string>
+    <string name="ttl_success">TTL успешно зафиксирован</string>
+    <string name="ttl_incorrect_value">Ошибка: Значение TTL неправильное</string>
+    <string name="root_error">Ошибка: устройство не рутировано</string>
 </resources>
